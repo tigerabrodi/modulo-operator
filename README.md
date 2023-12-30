@@ -14,8 +14,6 @@ A key point to understand is that the modulo operation always returns the remain
 
 ## Common use cases
 
-Certainly! Here's a concise cookbook outlining some common use cases of the modulo operator in programming:
-
 1. **Cycling Through Arrays or Lists (Circular Data Structures)**
 
    - **Use Case**: When you have a circular list (like a carousel) and want to cycle through elements repeatedly.
